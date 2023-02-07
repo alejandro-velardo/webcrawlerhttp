@@ -1,0 +1,26 @@
+{
+  "name": "webcrawlerhttp",
+  "version": "1.0.0",
+  "description": "Course Practice",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejandro-velardo/webcrawlerhttp.git"
+  },
+  "keywords": [
+    "http"
+  ],
+  "author": "Alejandro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejandro-velardo/webcrawlerhttp/issues"
+  },
+  "homepage": "https://github.com/alejandro-velardo/webcrawlerhttp#readme",
+  "devDependencies": {
+    "jest": "^29.4.2"
+  }
+}

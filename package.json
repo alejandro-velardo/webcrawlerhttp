@@ -22,5 +22,8 @@
   "homepage": "https://github.com/alejandro-velardo/webcrawlerhttp#readme",
   "devDependencies": {
     "jest": "^29.4.2"
+  },
+  "dependencies": {
+    "jsdom": "^21.1.0"
   }
 }
